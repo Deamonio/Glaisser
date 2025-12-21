@@ -36,7 +36,7 @@
 
 ### 📸 프로젝트 갤러리
 
-<img src="https://github.com/hyun0810d/2023_Geekble_Project-Glaisser/assets/84117112/fdaa14c3-3bab-4185-89e1-f17258067645" alt="Glaisser Robot" width="600">
+<img src="preview.jpg" alt="Glaisser Robot" width="600">
 
 *실제 학교에서 경비 중인 Glaisser*
 
@@ -738,8 +738,8 @@ void moveForward() {
 
 ### 유튜브 영상
 
-- **제작 영상**: [https://youtu.be/JkVdGndak4U](https://youtu.be/JkVdGndak4U)
-- **시연 영상**: [https://www.youtube.com/watch?v=lbPWybNbxP8](https://www.youtube.com/watch?v=lbPWybNbxP8)
+- **Roboto 시연 영상**: [https://www.youtube.com/shorts/5TaYdqiRaic](https://www.youtube.com/shorts/5TaYdqiRaic)
+- **WEB 시연 영상**: [https://www.youtube.com/watch?v=q5k5NGnKthY](https://www.youtube.com/watch?v=q5k5NGnKthY)
 - **업로드 날짜**: 2023년 11월 4일
 
 ### 전시 사진
